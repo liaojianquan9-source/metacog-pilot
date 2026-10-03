@@ -1,4 +1,4 @@
-# Learning Coach · A Metacognitive Monitoring System 🧠
+# MetaCogPilot · Your Metacognition Copilot 🧠
 
 **English** | [中文](README.zh-CN.md)
 
@@ -84,7 +84,7 @@ python scripts/coach.py
 
 ## Use as an AI Skill
 
-Learning Coach is a standard Skill (SKILL.md + scripts + data) — drop it into any AI assistant that supports skills.
+MetaCogPilot is a standard Skill (SKILL.md + scripts + data) — drop it into any AI assistant that supports skills.
 
 ### Trigger words
 
@@ -103,7 +103,7 @@ See `references/dialogue-examples.md` for typical conversations (Chinese).
 ## Repository layout
 
 ```
-learning-coach/
+metacog-pilot/
 ├── README.md           # This file (English)
 ├── README.zh-CN.md     # 中文说明
 ├── SKILL.md            # Agent execution manual

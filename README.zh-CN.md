@@ -1,4 +1,4 @@
-# Learning Coach · 元认知监控系统 🧠
+# MetaCogPilot · 元认知副驾 🧠
 
 [English](README.md) | **中文**
 
@@ -84,7 +84,7 @@ python scripts/coach.py
 
 ## 作为 AI Skill 使用
 
-Learning Coach 是一个标准 Skill（SKILL.md + scripts + data），装入任意支持 Skill 的 AI 助手即可使用。
+MetaCogPilot 是一个标准 Skill（SKILL.md + scripts + data），装入任意支持 Skill 的 AI 助手即可使用。
 
 ### 触发词
 
@@ -103,7 +103,7 @@ Learning Coach 是一个标准 Skill（SKILL.md + scripts + data），装入任�
 ## 文件结构
 
 ```
-learning-coach/
+metacog-pilot/
 ├── README.md           # 本文档（人类读者）
 ├── SKILL.md            # agent 执行手册
 ├── references/
